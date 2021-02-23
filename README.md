@@ -12,3 +12,8 @@ Features
 --------
 
 Takes three input returns the value of x
+
+Changelog
+---------
+1.1.0 : without correct values, app does not end
+1.0.0 : start of app
